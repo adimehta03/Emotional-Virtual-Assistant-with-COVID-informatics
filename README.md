@@ -16,7 +16,7 @@
 
 ## TO RUN IT ON YOUR LOCAL MACHINE
  1. `https://github.com/sumukhbhat2701/EVA-Emotion-Virtual-Assistant.git`
- 2. Open Anaconda Prompt and type - <br> `conda create --name rasa puthon==3.7.6`
+ 2. Open Anaconda Prompt and type - <br> `conda create --name rasa python==3.7.6`
  3. `conda activate rasa`
  4. `pip install -r requirements.txt`- (This will take some time)
  5. `npm i`
