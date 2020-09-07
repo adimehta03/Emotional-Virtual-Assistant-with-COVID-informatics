@@ -1,4 +1,5 @@
-# CODS - Our Contribution to the Open Source Projects during this pandemic.
+# EVA - Emotional Virtual Assistant
+## Our Contribution to the Open Source Projects during this pandemic.
 
 <hr>
 
