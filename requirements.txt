@@ -4,7 +4,7 @@ pandas==1.0.3
 ujson==1.35
 rasa==1.10.2
 nltk==3.4.5
-tensorflow==2.1.0
+tensorflow==2.1.2
 re==2.2.1
 csv==1.0
 google-search==1.0.2
