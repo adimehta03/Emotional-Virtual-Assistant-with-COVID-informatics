@@ -21,7 +21,7 @@
  4. `pip install -r requirements.txt`- (This will take some time)
  5. `npm i`
  6. `cd Tweets`
- 7. `python script1.py python2.py`
+ 7. `python script1.py script2.py`
  8. `cd ..`
  9.  Open another terminal in the same directory and type - `rasa run -m models --enable-api --cors "*" --debug -p 5005`
  10. Open yet another terminal in the same directory and type - `rasa run actions`
