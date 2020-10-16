@@ -33,7 +33,7 @@
  
  <hr>
  
- ## LINK TO OUR DESKTOP WEBSITE WITHOUT THE CHATBOT - <a href="https://emotional-virtual-assistant.herokuapp.com/">Click me</a>
+ ## LINK TO OUR DESKTOP WEBSITE WITHOUT THE CHATBOT - <a href="http://eva2701.herokuapp.com/">Click me</a>
  
  <hr>
  
